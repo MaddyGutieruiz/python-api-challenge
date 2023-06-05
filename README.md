@@ -116,7 +116,7 @@ To view results for part one see the Jupyter Notebook File here: https://github.
 Part2:
 To view results for part two see the Jupyter Notebook File here: https://github.com/MaddyGutieruiz/python-api-challenge/blob/main/VacationPy.ipynb
 
-![map_1](https://github.com/MaddyGutieruiz/python-api-challenge/blob/main/images/bokeh_plot%20.png)
+![map_1](https://github.com/MaddyGutieruiz/python-api-challenge/blob/main/images/bokeh_plot%20(1).png)
 
 
 ![map_2](https://github.com/MaddyGutieruiz/python-api-challenge/blob/main/images/bokeh_plot%20(1).png)
