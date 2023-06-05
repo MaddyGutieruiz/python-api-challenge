@@ -111,8 +111,8 @@ Narrow down the city_data_df DataFrame to find your ideal weather condition. For
 
 # Results
 Part1:
-To view results for part one see the Jupyter Notebook File here: 
+To view results for part one see the Jupyter Notebook File here: https://github.com/MaddyGutieruiz/python-api-challenge/blob/main/WeatherPy.ipynb
 
 Part2:
-To view results for part two see the Jupyter Notebook File here: 
+To view results for part two see the Jupyter Notebook File here: https://github.com/MaddyGutieruiz/python-api-challenge/blob/main/VacationPy.ipynb
 
