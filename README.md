@@ -116,7 +116,10 @@ To view results for part one see the Jupyter Notebook File here: https://github.
 Part2:
 To view results for part two see the Jupyter Notebook File here: https://github.com/MaddyGutieruiz/python-api-challenge/blob/main/VacationPy.ipynb
 
-![map_1](https://github.com/MaddyGutieruiz/python-api-challenge/blob/main/images/bokeh_plot.png)
 
 
-![map_2](https://github.com/MaddyGutieruiz/python-api-challenge/blob/main/images/bokeh_plot%20(1).png)
+Figure 1: map that displays a point for every city in the city_data_df DataFrame. 
+![map_1](https://github.com/MaddyGutieruiz/python-api-challenge/blob/main/images/bokeh_plot%20(1).png)
+
+Figure 2: map that displays a point for every hotel within 10,000 miles of locations with nice weather, according to the cloudiness conditions that was set up.
+![map_2](https://github.com/MaddyGutieruiz/python-api-challenge/blob/main/images/bokeh_plot.png)
