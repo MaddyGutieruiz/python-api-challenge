@@ -107,3 +107,12 @@ Narrow down the city_data_df DataFrame to find your ideal weather condition. For
 4. For each city, use the Geoapify API to find the first hotel located within 10,000 meters of your coordinates.
 
 5. Add the hotel name and the country as additional information in the hover message for each city on the map as in the following image:
+
+
+# Results
+Part1:
+To view results for part one see the Jupyter Notebook File here: 
+
+Part2:
+To view results for part two see the Jupyter Notebook File here: 
+
